@@ -24,6 +24,9 @@ This is based on the different versions of chatgpt.
 #### TF-IDF
 We build the word cloud on various columns in the data, we found most of the words are positive. Used LDA to perform the analysis on text and filtered out 5 topics saw the probabilities of most occuring words in those buckets.
 
+**NOTE**: Some plots are inside ipynb files.
+
+
 
 
 
